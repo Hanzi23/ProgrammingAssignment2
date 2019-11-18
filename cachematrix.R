@@ -1,7 +1,7 @@
 ## This file consists of 2 function, one function stores the information of
 ## the matrix and another calculates the inverse of the matrix,
-## in case the inverse had already been calculated, returns that previous
-## calculated
+## in case the inverse had already been calculated, returns that previously
+## calculated matrix
 
 
 ##This function makes a list of functions for the variable x, 
